@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="AddValue.html" resolutions="1x" timestamp="1445271365467">
+  <folder name="css">
+    <file name="site_global.css" crc="430831120"/>
+    <file name="index.css" crc="4028157502" ref="index"/>
+    <file name="iefonts_index.css" crc="236102072" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="01_logo_addvalue_ctrl_i2.png" crc="475827443" ref="index"/>
+    <file name="addvaluetxt.png" crc="4264363741" ref="index"/>
+    <file name="inversionestxt.png" crc="348818761" ref="index"/>
+    <file name="addvalue_black.jpg" crc="311225072" ref="index"/>
+    <file name="forestal-logo.jpg" crc="4176083641" ref="index"/>
+    <file name="addminds.png" crc="166142211" ref="index"/>
+    <file name="checkbox.png" crc="4258989587" seo="true" ref="index"/>
+    <file name="pexels-photo.jpg" crc="4266279744" ref="index"/>
+    <file name="download.jpg" crc="170694265" ref="index"/>
+    <file name="wi9yf7ktqxcney72ccy6_images of jenny lace plasticity publish (4 of 25).jpg" crc="266527804" ref="index"/>
+    <file name="google-maps-coordinate_0.png" crc="3797919636" ref="index"/>
+    <file name="twitter-bird-white-on-blue.jpg" crc="176054217" ref="index"/>
+    <file name="phonecontacts.jpg" crc="492290795" ref="index"/>
+    <file name="icon-mail-light.png" crc="4058903368" ref="index"/>
+  </folder>
+  <file name="index.html" crc="221546191" seo="true" mt="1445271324603" redirect="true"/>
+</manifest>
